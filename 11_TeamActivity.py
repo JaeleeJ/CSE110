@@ -1,5 +1,5 @@
 # 11 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee
 
 # open file
 open('hr_system.txt')
