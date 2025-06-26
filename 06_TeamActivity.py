@@ -1,5 +1,5 @@
 # 06 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee
 
 # user input
 age = int(input('What is the age of the first rider? '))
