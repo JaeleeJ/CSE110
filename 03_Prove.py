@@ -1,5 +1,5 @@
 # 03 Prove: Milestone
-# Jaelee Hutchinson
+# Jaelee
 
 # prompt user
 childPrice = float(input("What is the price of a child's meal? "))
