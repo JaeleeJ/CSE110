@@ -1,0 +1,80 @@
+# 05 Prove Design
+
+It's shopping time! Let's see if you can get some good deals at the mall.
+Which store would like to shop at: BATH AND BODY WORKS, PACSUN, or APPLE?
+
+BBW
+You enter the store and are blown away by the amazing scented products. There are so many
+options. Do you buy LOTION or CANDLES?
+
+	LOTION
+	It looks like they have some new fragrances! Would you like to purchase a NEW scent
+	or a CLASSIC scent?
+		NEW
+		Good thing you chose the new scents, because the sale on these is buy 2 get 
+		1 free!! Would you like to take advantage of this offer? YES or NO?
+			YES
+			Congratulations! You got the best deal at Bath and Body Works!
+			NO
+			That's too bad that you didn't take advantage of the amazing
+			promotion going on...
+		CLASSIC
+		There are so many great classic scents available! Too bad they aren't on 
+		sale today. How about trying somewhere else for a good deal...
+	CANDLES
+	Candles are a great gift for your friends and family, especially for this cold	
+	winter season! And you are lucky that there is a promotion happening now for the
+	candles! If you buy 5 candles, you get 50% off your order! How many candles will 	
+	you purchase?
+		IF >=5
+		Yay! You got a great deal here!
+		IF <5
+		You didn't buy enough candles, so you weren't eligible for the discount...
+PACSUN
+You enter the store and are greeted with the new winter clothing line! There are so many 
+cozy clothes you could buy! Which do you want to purchase: COAT or JEANS?
+	COAT
+	You take a look at a few racks filled with coats that are puffy, fluffy, long, and
+	short. There is a sale depending on which kind of coat you buy! Do you
+	choose a PUFFY, FLUFFY, LONG, or SHORT coat?
+		FLUFFY
+		Wow you got lucky! Today's sale is fluffy coats so you can dress like a 
+		teddy bear. So cute!
+		PUFFY, LONG, SHORT
+		Sorry, these coats aren't discounted today. Maybe try another type?
+	JEANS
+	A good pair of jeans is essential for winter! There are so many different styles and
+	colors. All jeans are on sale depending on how many you purchase. How many pairs
+	of jeans would you like to buy?
+		IF >1
+		Looks like you got the deal! It is buy 1 get 1 50% off. Congratulations!
+		IF <1
+		Sorry, the promotion is for those who purchase 2 or more pairs of jeans.
+		I hope you found a good pair, though...
+APPLE
+Here is the glorious Apple store. You see rows and rows of slick products that you want to
+try out. There are watches, iPads, iPhones, laptops, and Airpods. Sadly, it doesn't seem
+like you have enough money to purchase them all today, so let's choose just one item:
+WATCH or AIRPODS?
+	WATCH
+	Look at all of those nice watches. The newer models have more health tracking features, 
+	but the older models are more basic and less expensive. Which model would you
+	like to purchase: 7 or SE?
+		7
+		Wow you bought the newest model! Too bad it wasn't on sale today. 
+		SE
+		Today is your lucky day! This basic model happened to have a $100 discount 
+		attached to it! You walked out with a great deal!
+	AIRPODS
+	Time to get some new bluetooth headphones. You head to another section of the store and
+	see a few different models of Airpods. Do you go with the REGULAR, PRO, or MAX?
+		REGULAR
+		The 1st and 2nd generation models happened to have a discount today! Good choice!
+		PRO
+		The pros are the perfect choice for everyday wear. It's a shame they 
+		didn't have a discount today...
+		MAX
+		The Airpods Max are perfect for noise cancellation, but not for the price. Sorry,
+		you didn't get any promotion today for this model...
+
+		
