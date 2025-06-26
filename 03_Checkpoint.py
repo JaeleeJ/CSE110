@@ -1,5 +1,5 @@
 # 03 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 age = int(input('How old are you? '))
 age = age + 1
