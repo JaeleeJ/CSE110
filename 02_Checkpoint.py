@@ -1,5 +1,5 @@
 # 02 Prove: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 firstName = str(input('What is your first name? '))
 lastName = str(input('What is your last name? '))
