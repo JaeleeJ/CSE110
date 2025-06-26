@@ -1,5 +1,5 @@
 # 12 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee
 
 # read file
 open('books_and_chapters.txt')
