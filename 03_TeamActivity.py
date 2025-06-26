@@ -1,5 +1,5 @@
 # 03 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee 
 import math
 
 # area of square
