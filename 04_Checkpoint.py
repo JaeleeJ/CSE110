@@ -1,5 +1,5 @@
 # 04 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 # user input
 fahrenheit = int(input('What is the temperature in Fahrenheit? '))
