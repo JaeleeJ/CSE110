@@ -1,5 +1,5 @@
 # 10 Prove: Assignment
-# Jaelee Hutchinson
+# Jaelee 
 
 choice = 0
 # list for shopping cart
