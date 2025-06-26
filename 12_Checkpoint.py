@@ -1,5 +1,5 @@
 # 12 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 people = [
     "Stephanie 36",
