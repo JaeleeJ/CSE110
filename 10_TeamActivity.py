@@ -1,5 +1,5 @@
 # 10 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee 
 
 print('Enter the names and balances of bank accounts (type: quit when done)')
 
