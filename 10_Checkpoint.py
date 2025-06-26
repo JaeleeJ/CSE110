@@ -1,5 +1,5 @@
 # 10 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee 
 
 print('Please enter the items of the shopping list (type: quit to finish):')
 
