@@ -1,5 +1,5 @@
 # 06 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 # user input
 print('Please rate the following from 1-10:')
