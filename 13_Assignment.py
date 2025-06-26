@@ -1,5 +1,5 @@
 # 13 Prove: Assignment
-# Jaelee Hutchinson
+# Jaelee 
 
 # caluclate wind speed
 def calculate_wind(temperature):
