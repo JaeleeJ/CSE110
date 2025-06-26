@@ -1,5 +1,5 @@
 # 09 Prove: Assignment Milestone
-# Jaelee Hutchinson
+# Jaelee 
 
 choice = 0
 # list for shopping cart
