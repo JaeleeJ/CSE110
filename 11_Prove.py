@@ -1,5 +1,5 @@
 # 11 Prove: Assignment Milestone
-# Jaelee Hutchinson
+# Jaelee 
 
 # open the file
 open('life-expectancy.csv')
