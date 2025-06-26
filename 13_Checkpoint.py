@@ -1,5 +1,5 @@
 # 13 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee 
 
 # function to receive a string and print normally
 def display_regular(message):
