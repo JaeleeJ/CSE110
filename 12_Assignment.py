@@ -1,5 +1,5 @@
 # 12 Prove: Assignment
-# Jaelee Hutchinson
+# Jaelee
 
 # open the file
 open('life-expectancy.csv')
