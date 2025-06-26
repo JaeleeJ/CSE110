@@ -1,5 +1,5 @@
 # 05 Prove: Milestone - Adventure Game
-# Jaelee Hutchinson
+# Jaelee
 
 # introduce the game
 print("It's shopping time! Let's see if you can get some good deals at the mall.")
