@@ -1,5 +1,5 @@
 # 05 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee 
 
 # user input
 gradeNum = int(input('Enter a grade percentage: '))
