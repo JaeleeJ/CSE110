@@ -1,5 +1,5 @@
 # 09 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee 
 
 # user input
 friends = []
