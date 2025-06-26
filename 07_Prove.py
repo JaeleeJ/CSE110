@@ -1,5 +1,5 @@
 # 07 Prove: Assignment Milestone
-# Jaelee Hutchinson
+# Jaelee
 
 from PIL import Image
 image_original = Image.open("penguin.jpg")
