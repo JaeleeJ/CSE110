@@ -1,5 +1,5 @@
 # 02 Prove: Assignment
-# Jaelee Hutchinson
+# Jaelee
 
 print('Please enter the following:')
 print()
