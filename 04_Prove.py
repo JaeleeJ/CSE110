@@ -1,5 +1,5 @@
 # 04 Prove: Assignment - Meal Price Calculator
-# Jaelee Hutchinson
+# Jaelee 
 
 # prompt user
 childPrice = float(input("What is the price of a child's meal? "))
