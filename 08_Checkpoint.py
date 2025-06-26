@@ -1,5 +1,5 @@
 # 08 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 # loop to print colors
 colors = ["red", "blue", "green", "yellow"]
