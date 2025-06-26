@@ -1,5 +1,5 @@
 # 09 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee 
 
 # user input
 numbers = []
