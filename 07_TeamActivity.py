@@ -1,5 +1,5 @@
 # 07 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee 
 
 import random
 
