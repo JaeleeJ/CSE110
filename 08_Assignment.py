@@ -1,5 +1,5 @@
 # 08 Prove: Assignment
-# Jaelee Hutchinson
+# Jaelee
 
 from PIL import Image
 # open and load images
