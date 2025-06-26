@@ -1,5 +1,5 @@
 # 07 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 # positive number
 num = int(input('Please type a positive number: '))
