@@ -1,5 +1,5 @@
 # 02 Teach: Programming Activity
-# Jaelee Hutchinson
+# Jaelee
 
 print('Please enter the following information:')
 print()
