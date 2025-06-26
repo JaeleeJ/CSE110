@@ -1,5 +1,5 @@
 # 05 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee
 
 # user input
 firstNum = int(input('What is the first number? '))
