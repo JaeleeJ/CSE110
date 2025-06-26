@@ -1,5 +1,5 @@
 # 11 Prepare: Checkpoint
-# Jaelee Hutchinson
+# Jaelee 
 
 # open file
 open('books.txt')
