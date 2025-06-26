@@ -1,5 +1,5 @@
 # 08 Teach: Team Activity
-# Jaelee Hutchinson
+# Jaelee
 
 # user input
 num = int(input('How many columns and rows do you want in your multiplication table? '))
